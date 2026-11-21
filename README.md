@@ -15,5 +15,6 @@ My public repositories are not for use (so far). They're a way for possible empl
 | [🎧 Audio Sampling Web API](https://github.com/LukasRuben/flip_your_sample) | Public | API for resampling audio samples for music production. Unfinished. | Python, Flask, Redis, Celery, Docker, Postgres, C |
 | 🎛️ Reverb VST (Closed Source) | Private | Real-time DSP plugin with JUCE. | C++, JUCE |
 | Research Agent | Private | An agent to support scientists and engineers with scientific research. | Python, LangChain, LangGraph |
+| Webshop Backend | Private | A simple shop backend to sell my VST. No bells and whistles. | Python, Flask, Docker, HTML, CSS, JS |
 
 ---
